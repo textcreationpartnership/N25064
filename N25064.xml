@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="illustration">
-            <pb facs="tcp:033216_0000_0FF66ACB785B94F0"/>
-            <pb facs="tcp:033216_0001_0FF66ACD092AB9B8"/>
+            <pb facs="unknown:033216_0000_0FF66ACB785B94F0"/>
+            <pb facs="unknown:033216_0001_0FF66ACD092AB9B8"/>
             <p>
                <figure>
                   <head>M<hi rend="sup">r</hi>. WHITE as ORLANDO. I see that fr<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -125,7 +125,7 @@
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:033216_0002_0FF66BA2D480B3F8"/>
+            <pb facs="unknown:033216_0002_0FF66BA2D480B3F8"/>
             <p>ORLANDO: OR PARENTAL PERSECUTION, A TRAGEDY.</p>
             <p>BY WILLIAM CHARLES WHITE.</p>
             <p>ADAPTED FOR THEATRICAL REPRESENTATION, AS PERFORMED AT THE THEATRE, FEDERAL-STREET, BOSTON.</p>
@@ -139,7 +139,7 @@
             <p>PRINTED AT BOSTON. BY JOHN RUSSELL—AND SOLD AT HIS OFFICE, QUA<g ref="char:EOLhyphen"/>KER-LANE; AND BY W. P. <hi>&amp;</hi> L. BLAKE, NO. 1, CORNHILL. 1797.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:033216_0003_0FF675E2A59F5518"/>
+            <pb facs="unknown:033216_0003_0FF675E2A59F5518"/>
             <head>DEDICATION.</head>
             <opener>
                <salute>TO THE FAIR SEX,</salute>
@@ -164,7 +164,7 @@
             </closer>
          </div>
          <div type="prologue">
-            <pb facs="tcp:033216_0004_0FF66C268347D030"/>
+            <pb facs="unknown:033216_0004_0FF66C268347D030"/>
             <head>PROLOGUE.</head>
             <byline>WRITTEN BY THOMAS PAINE, A. M.</byline>
             <byline>SPOKEN BY MR. CHALMERS.</byline>
@@ -204,7 +204,7 @@
                      <desc>•</desc>
                   </gap>hip's</hi> brows a while,</l>
             <l>
-               <pb n="v" facs="tcp:033216_0005_0FF675BF3B386680"/>'Tis <hi>libellous</hi> to ſay, you cannot ſmile;</l>
+               <pb n="v" facs="unknown:033216_0005_0FF675BF3B386680"/>'Tis <hi>libellous</hi> to ſay, you cannot ſmile;</l>
             <l>Come, here's the <hi>Comic Muſe;</hi>—pray try to imp her;</l>
             <l>Your <hi>well-ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -237,7 +237,7 @@
             </l>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:033216_0006_0FF675C0D64BD708"/>
+            <pb facs="unknown:033216_0006_0FF675C0D64BD708"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <head>MEN:</head>
@@ -267,7 +267,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:033216_0007_0FF675C3DF963268"/>
+            <pb facs="unknown:033216_0007_0FF675C3DF963268"/>
             <head>ORLANDO:</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -306,7 +306,7 @@
                      <l>Humble herſelf a proſtrate ſuppliant;</l>
                      <l>Break forth in all the eloquence, that e'er</l>
                      <l>
-                        <pb n="8" facs="tcp:033216_0008_0FF675C625569BE8"/>Warbled from tender ſounds of melting pity,</l>
+                        <pb n="8" facs="unknown:033216_0008_0FF675C625569BE8"/>Warbled from tender ſounds of melting pity,</l>
                      <l>I'd hear invulnerable, the ſorrowing tale,</l>
                      <l>Unmov'd by ſoft perſuaſion, and remain</l>
                      <l>Deaf to diſtreſs, and callous to his woes.</l>
@@ -351,7 +351,7 @@
                      <l>Burſt but for him, and all the world beſides,</l>
                      <l>Shrunk when compar'd with his ſuperior worth;</l>
                      <l>
-                        <pb n="9" facs="tcp:033216_0009_0FF675C86BD36BE0"/>But I would now rejoice to ſee his fall;</l>
+                        <pb n="9" facs="unknown:033216_0009_0FF675C86BD36BE0"/>But I would now rejoice to ſee his fall;</l>
                      <l>Nay more, wou'd ſtretch this hand to ſink in ruin,</l>
                      <l>The little good he ſcantily enjoys.</l>
                   </sp>
@@ -397,7 +397,7 @@
                      <l>Which thy inſulting breath, has put upon them.</l>
                   </sp>
                   <sp>
-                     <pb n="10" facs="tcp:033216_0010_0FF675CAACE5AED0"/>
+                     <pb n="10" facs="unknown:033216_0010_0FF675CAACE5AED0"/>
                      <speaker>Alb.</speaker>
                      <l>'Tis that which checks my rage, elſe wou'd I ruſh</l>
                      <l>And pluck them from the head they now protect;</l>
@@ -448,7 +448,7 @@ Go glut thyſelf on avarice, count thy gold,</l>
                      <l>Shew with a niggard grin thy ſordid ſoul;</l>
                      <l>Place it in heaps profuſe, but ſure prevent</l>
                      <l>
-                        <pb n="11" facs="tcp:033216_0011_0FF675CD6524D9A0"/>Its neceſſary good. Oh! cruel Danfred!</l>
+                        <pb n="11" facs="unknown:033216_0011_0FF675CD6524D9A0"/>Its neceſſary good. Oh! cruel Danfred!</l>
                      <l>Conſcience within thy breaſt ſhall rouſe its fires;</l>
                      <l>And while deſpair exulting flaps his wings,</l>
                      <l>Thou ſhall grow fearful of thyſelf, and die.</l>
@@ -491,7 +491,7 @@ Go glut thyſelf on avarice, count thy gold,</l>
                      <l>Promoted by the uſe of flattery;</l>
                      <l>But 'tis too trifling, low, and unſubſtantial,</l>
                      <l>
-                        <pb n="12" facs="tcp:033216_0012_0FF675CF6E10E860"/>For friends like us, to give it currency.</l>
+                        <pb n="12" facs="unknown:033216_0012_0FF675CF6E10E860"/>For friends like us, to give it currency.</l>
                   </sp>
                   <sp>
                      <speaker>Orl.</speaker>
@@ -537,7 +537,7 @@ Go glut thyſelf on avarice, count thy gold,</l>
                      <l>Dry up thoſe tears; they cannot help your for<g ref="char:EOLhyphen"/>tune;</l>
                      <l>Be more compoſ'd. But ſee; Cecilia comes;</l>
                      <l>
-                        <pb n="13" facs="tcp:033216_0013_0FF675D10366B270"/>Affliction dwells upon her lovely brow;</l>
+                        <pb n="13" facs="unknown:033216_0013_0FF675D10366B270"/>Affliction dwells upon her lovely brow;</l>
                      <l>Exert thy utmoſt then, nor ſpare thy art,</l>
                      <l>Suppreſſing from her knowledge all the truth,</l>
                      <l>That the ſad hiſtory of your fate contains.</l>
@@ -583,7 +583,7 @@ Farewell. Yes, memory ſhall retain thoſe words,</l>
                      <l>More pure than ſpeech conveys, or glances tell.</l>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:033216_0014_0FF675D307F42DB8"/>
+                     <pb n="14" facs="unknown:033216_0014_0FF675D307F42DB8"/>
                      <speaker>Cec.</speaker>
                      <l>Wherefore then do you droop, and hang your head</l>
                      <l>Paſſive neglectful; careleſs of your eyes</l>
@@ -628,7 +628,7 @@ Farewell. Yes, memory ſhall retain thoſe words,</l>
                      <l>So threatening to the ſafety of us both,</l>
                      <l>Oh, my Orlando!</l>
                      <l>
-                        <pb n="15" facs="tcp:033216_0015_0FF675D5F50B4110"/>Then bury all thoſe troubleſome ideas</l>
+                        <pb n="15" facs="unknown:033216_0015_0FF675D5F50B4110"/>Then bury all thoſe troubleſome ideas</l>
                      <l>In dark oblivion, never more to riſe</l>
                      <l>To mar our joys, or make our ſorrows heavier.</l>
                      <l>Be cheerful then; look gay, come let us ſing;</l>
@@ -671,7 +671,7 @@ Farewell. Yes, memory ſhall retain thoſe words,</l>
                   </sp>
                </div>
                <div n="2" type="scene">
-                  <pb n="16" facs="tcp:033216_0016_0FF675D824FCFE80"/>
+                  <pb n="16" facs="unknown:033216_0016_0FF675D824FCFE80"/>
                   <head>Scene <hi>II,</hi> An apartment in <hi>DANFR<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>D</hi>'s Houſes</head>
@@ -727,7 +727,7 @@ My wiſhes now can make their gloomy range.</l>
                         </gap>ndiſpenſable</l>
                      <l>To form a perfect villain,</l>
                      <l>
-                        <pb n="17" facs="tcp:033216_0017_0FF675D9B811DDD8"/>Still ſhall the volume of extenſive fraud,</l>
+                        <pb n="17" facs="unknown:033216_0017_0FF675D9B811DDD8"/>Still ſhall the volume of extenſive fraud,</l>
                      <l>Have a minute, and diligent peruſal,</l>
                      <l>Since 'tis your choice I ſhou'd become its maſter.</l>
                   </sp>
@@ -775,7 +775,7 @@ My wiſhes now can make their gloomy range.</l>
                      <l>Put to the teſt the powers this brain affords;</l>
                      <l>Then even hawk-ey'd jealouſly ſhall not peep</l>
                      <l>
-                        <pb n="18" facs="tcp:033216_0018_0FF675DC096A85C0"/>Thro' the deſign, to check its execution.</l>
+                        <pb n="18" facs="unknown:033216_0018_0FF675DC096A85C0"/>Thro' the deſign, to check its execution.</l>
                   </sp>
                   <sp>
                      <speaker>Dan.</speaker>
@@ -824,7 +824,7 @@ My wiſhes now can make their gloomy range.</l>
                      <l>Than all Lyſander's arts can e'er produce.</l>
                      <l>The little ſuperficies of a ſtory,</l>
                      <l>
-                        <pb n="19" facs="tcp:033216_0019_0FF675DEB65B40B0"/>A villain's heart invented, ne'er can gain</l>
+                        <pb n="19" facs="unknown:033216_0019_0FF675DEB65B40B0"/>A villain's heart invented, ne'er can gain</l>
                      <l>Sufficient ſtrength to ſhake his conſtancy.</l>
                   </sp>
                   <sp>
@@ -874,7 +874,7 @@ My wiſhes now can make their gloomy range.</l>
                      <l>How came you by this knowledge?</l>
                   </sp>
                   <sp>
-                     <pb n="20" facs="tcp:033216_0020_0FF675E053D404F0"/>
+                     <pb n="20" facs="unknown:033216_0020_0FF675E053D404F0"/>
                      <speaker>Sem.</speaker>
                      <l>Danfred propoſ'd the hateful ſcheme to me,</l>
                      <l>But ſeeing I diſlik'd it, ſent direct</l>
@@ -926,7 +926,7 @@ My wiſhes now can make their gloomy range.</l>
                      <l>This day ſeems pregnant with a goodly ſtore.</l>
                      <l>Which ſoon will burſt, and throw its bleſſings round thee;</l>
                      <l>
-                        <pb n="21" facs="tcp:033216_0021_0FF66AC7D43B5A10"/>Beſtrew thy bed with luſcious, grateful flowers,</l>
+                        <pb n="21" facs="unknown:033216_0021_0FF66AC7D43B5A10"/>Beſtrew thy bed with luſcious, grateful flowers,</l>
                      <l>Whoſe ſweetneſs will convert thy every care</l>
                      <l>Into mild quietude, and dreſs thy ſlumbers</l>
                      <l>With a variety of wild enchantment.</l>
@@ -1005,7 +1005,7 @@ My wiſhes now can make their gloomy range.</l>
                            <desc>•</desc>
                         </gap>ſ the worſt coin that wretchedneſs cou'd mint,</l>
                      <l>
-                        <pb n="22" facs="tcp:033216_0022_0FF675E438615D68"/>I wou'd reſtrain the impulſe of weak nature,</l>
+                        <pb n="22" facs="unknown:033216_0022_0FF675E438615D68"/>I wou'd reſtrain the impulſe of weak nature,</l>
                      <l>And act the god, amidſt calamity.</l>
                   </sp>
                   <sp>
@@ -1052,7 +1052,7 @@ My wiſhes now can make their gloomy range.</l>
                      <stage>Going.</stage>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:033216_0023_0FF675E6F8391100"/>
+                     <pb n="23" facs="unknown:033216_0023_0FF675E6F8391100"/>
                      <speaker>Orl.</speaker>
                      <l>Oh ſtay! I pr'ythee, do not leave me thus;</l>
                      <l>Hear of my condition, rip up my breaſt,</l>
@@ -1112,7 +1112,7 @@ My wiſhes now can make their gloomy range.</l>
                            <desc>•</desc>
                         </gap>lenient ſtop, to all my preſent pangs;</l>
                      <l>
-                        <pb n="24" facs="tcp:033216_0024_0FF76991A43F28D8"/>They will increaſe, they will enlarge their courſe,</l>
+                        <pb n="24" facs="unknown:033216_0024_0FF76991A43F28D8"/>They will increaſe, they will enlarge their courſe,</l>
                      <l>'Till certainty, enlightens the dim covering<g ref="char:punc">▪</g>
                      </l>
                      <l>Which hovers round, and morbids every joy.</l>
@@ -1161,7 +1161,7 @@ My wiſhes now can make their gloomy range.</l>
                      <l>Who adder like, when ſeeking for his prey,</l>
                      <l>Charms with an occult ſubtlety!</l>
                      <l>
-                        <pb n="25" facs="tcp:033216_0025_0FF675E9D00C0840"/>I'll find him out; and when he thinks the maſk</l>
+                        <pb n="25" facs="unknown:033216_0025_0FF675E9D00C0840"/>I'll find him out; and when he thinks the maſk</l>
                      <l>Shields him with privacy, from every eye;</l>
                      <l>Yes, when he leaſt expects it, ruſh upon him,</l>
                      <l>And charge to his account this rank offence;</l>
@@ -1200,7 +1200,7 @@ Fool that I was, to treat this godlike bro<g ref="char:EOLhyphen"/>ther</l>
                      <l>Decietful wretch! thy fate prepare to meet,</l>
                      <l>E'er mercy dies, and juſtice holds her ſeat;</l>
                      <l>
-                        <pb n="26" facs="tcp:033216_0026_0FF675EB62A28420"/>The latter then, her awful ſword ſhall wield,</l>
+                        <pb n="26" facs="unknown:033216_0026_0FF675EB62A28420"/>The latter then, her awful ſword ſhall wield,</l>
                      <l>And threaten horrors, which you cannot ſhield!</l>
                      <stage>Exit.</stage>
                   </sp>
@@ -1266,7 +1266,7 @@ The birth's auſpicious!—Ruin faſt ad<g ref="char:EOLhyphen"/>vances</l>
                      <l>And what of that?</l>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:033216_0027_0FF675ED9D19A948"/>
+                     <pb n="27" facs="unknown:033216_0027_0FF675ED9D19A948"/>
                      <speaker>Sem.</speaker>
                      <l>'Twas your requeſt, that I ſhould let thee know</l>
                      <l>Why I did wiſh thee joy.</l>
@@ -1349,7 +1349,7 @@ away I ſay!</l>
                      <stage>Exit.</stage>
                   </sp>
                   <sp>
-                     <pb n="28" facs="tcp:033216_0028_0FF675F02724D020"/>
+                     <pb n="28" facs="unknown:033216_0028_0FF675F02724D020"/>
                      <speaker>Lys.</speaker>
                      <l>
                         <stage>(Solus)</stage>
@@ -1399,7 +1399,7 @@ Am I diſtruſted then?</l>
                      <speaker>Cec.</speaker>
                      <l>Ceaſe thy untimely merriment.</l>
                      <l>
-                        <pb n="29" facs="tcp:033216_0029_0FF675F1BB0E9B48"/>Oft has ſome guardian ſpirit of the night,</l>
+                        <pb n="29" facs="unknown:033216_0029_0FF675F1BB0E9B48"/>Oft has ſome guardian ſpirit of the night,</l>
                      <l>(Who has the care of virtue as ſhe ſleeps,)</l>
                      <l>Whiſper'd alarm, and warn'd her of her danger.</l>
                      <l>As ſunk in reſtleſs ſlumber, (dreadful ſight!)</l>
@@ -1438,7 +1438,7 @@ Am I diſtruſted then?</l>
                      <l>Becoming virtue's rules; but ſpare Orlando;</l>
                      <l>Add not another thorn unto the many</l>
                      <l>
-                        <pb n="30" facs="tcp:033216_0030_0FF675F3E4E16030"/>Which now do pierce him.</l>
+                        <pb n="30" facs="unknown:033216_0030_0FF675F3E4E16030"/>Which now do pierce him.</l>
                   </sp>
                   <sp>
                      <speaker>Luc.</speaker>
@@ -1489,7 +1489,7 @@ Am I diſtruſted then?</l>
                      <l>Sufficiently to loſe that confidence</l>
                      <l>Which once you did beſtow ſo willingly?</l>
                      <l>
-                        <pb n="31" facs="tcp:033216_0031_0FF675F581950F50"/>Do you then think I can behold you, torn</l>
+                        <pb n="31" facs="unknown:033216_0031_0FF675F581950F50"/>Do you then think I can behold you, torn</l>
                      <l>With life's oppreſſive injuries, and yet</l>
                      <l>Support exiſtence! Oh, never, never!</l>
                   </sp>
@@ -1535,7 +1535,7 @@ Am I diſtruſted then?</l>
                      </l>
                   </sp>
                   <sp>
-                     <pb n="32" facs="tcp:033216_0032_0FF675F8CB961468"/>
+                     <pb n="32" facs="unknown:033216_0032_0FF675F8CB961468"/>
                      <speaker>Orl.</speaker>
                      <l>
                         <stage>(Solus)</stage>
@@ -1598,7 +1598,7 @@ Thou art my friend then!</l>
                      <l>Indeed!</l>
                   </sp>
                   <sp>
-                     <pb n="33" facs="tcp:033216_0033_0FF675FB052DD228"/>
+                     <pb n="33" facs="unknown:033216_0033_0FF675FB052DD228"/>
                      <speaker>Alb.</speaker>
                      <l>Again the ſame cold period! one wou'd think</l>
                      <l>That words were ſcarce, or that the tongue were lazy,</l>
@@ -1653,7 +1653,7 @@ Perdition ſeize this weakneſs.</l>
                      <l>The nights, when ſickneſs prey'd upon thy mind,</l>
                      <l>And ſleep refuſ'd to do its ſoothing office,</l>
                      <l>
-                        <pb n="34" facs="tcp:033216_0034_0FF675FC972AADE8"/>That I have linger'd at thy curtain's ſide,</l>
+                        <pb n="34" facs="unknown:033216_0034_0FF675FC972AADE8"/>That I have linger'd at thy curtain's ſide,</l>
                      <l>Depriv'd myſelf of nature's requiſite,</l>
                      <l>All, all, for thee? and yet thy memory</l>
                      <l>Would willingly reject what truth confirms.</l>
@@ -1703,7 +1703,7 @@ Perdition ſeize this weakneſs.</l>
                      <speaker>Orl.</speaker>
                      <l>Aye, guilt inform'd you of the circumſtance,</l>
                      <l>
-                        <pb n="35" facs="tcp:033216_0035_0FF675FE930A15A0"/>And conſcience did aſſiſt in its diſcloſure;</l>
+                        <pb n="35" facs="unknown:033216_0035_0FF675FE930A15A0"/>And conſcience did aſſiſt in its diſcloſure;</l>
                      <l>How elſe cou'd knowledge reach thee?</l>
                   </sp>
                   <sp>
@@ -1754,7 +1754,7 @@ Perdition ſeize this weakneſs.</l>
                      <l>But once more, as a real friend, I warn you;</l>
                      <l>Let not the footſteps of Cecilia be</l>
                      <l>
-                        <pb n="36" facs="tcp:033216_0036_0FF67600EDC262D0"/>This night without thy doors; for miſchief now</l>
+                        <pb n="36" facs="unknown:033216_0036_0FF67600EDC262D0"/>This night without thy doors; for miſchief now</l>
                      <l>Thrives in its ſhell, and ſoon will burſt to life!</l>
                   </sp>
                   <sp>
@@ -1812,7 +1812,7 @@ Poor, hapleſs youth! wrought up to this extreme</l>
                      <l>Of conflagration, and conſumes his ſoul.</l>
                      <l>This night's ordain'd to perpetrate a crime</l>
                      <l>
-                        <pb n="37" facs="tcp:033216_0037_0FF6760300FBD8A8"/>Of the worſt die, e'er plac'd to the account</l>
+                        <pb n="37" facs="unknown:033216_0037_0FF6760300FBD8A8"/>Of the worſt die, e'er plac'd to the account</l>
                      <l>Of fiend-aſſiſted monſters! Shall it be?</l>
                      <l>I'll not recline upon the eaſy couch</l>
                      <l>Of unconcern, and dead indifference,</l>
@@ -1847,7 +1847,7 @@ Poor, hapleſs youth! wrought up to this extreme</l>
                      <l>If thou wouldſt wiſh to ſooth, and make me feel</l>
                      <l>A ſlight relief, relate ſome diſmal tale,</l>
                      <l>
-                        <pb n="38" facs="tcp:033216_0038_0FF6760496C76BC0"/>Whoſe narrative ſpeaks keener grief than mine.</l>
+                        <pb n="38" facs="unknown:033216_0038_0FF6760496C76BC0"/>Whoſe narrative ſpeaks keener grief than mine.</l>
                   </sp>
                   <sp>
                      <speaker>Luc.</speaker>
@@ -1903,7 +1903,7 @@ Poor, hapleſs youth! wrought up to this extreme</l>
                            <desc>•</desc>
                         </gap> can be conquer'd, and we ſoon</l>
                      <l>
-                        <pb n="39" facs="tcp:033216_0039_0FF6760694E774A8"/>Forget their force: ſome ſupernatural pow'r</l>
+                        <pb n="39" facs="unknown:033216_0039_0FF6760694E774A8"/>Forget their force: ſome ſupernatural pow'r</l>
                      <l>Adviſes me of danger, and points out</l>
                      <l>The villain to my view: alas, I dread</l>
                      <l>The events which this dull hour ſhall bring to light,</l>
@@ -1962,7 +1962,7 @@ Alas, Lucretia, little doeſt thou kn<gap reason="illegible" resp="#PDCC" extent
                      </l>
                      <l>Now all my proſperous ſtars but aid me here</l>
                      <l>
-                        <pb n="40" facs="tcp:033216_0040_0FF67608CB4014C8"/>To gain the victory in this hour's adventure,</l>
+                        <pb n="40" facs="unknown:033216_0040_0FF67608CB4014C8"/>To gain the victory in this hour's adventure,</l>
                      <l>And I'll be proof againſt th' attacks of conſcience.</l>
                      <l>How bright, celeſtial bright, is that dear face.</l>
                      <l>Oh, ſhe has charms would force an atheiſt</l>
@@ -2007,7 +2007,7 @@ Alas, Lucretia, little doeſt thou kn<gap reason="illegible" resp="#PDCC" extent
                      <l>Let actions then diſcharge the mighty balance.</l>
                      <l>I have a ſon, own brother to thy huſband;</l>
                      <l>
-                        <pb n="41" facs="tcp:033216_0041_0FF6760B40FDF3B8"/>If you would wiſh to loſe your indigence,</l>
+                        <pb n="41" facs="unknown:033216_0041_0FF6760B40FDF3B8"/>If you would wiſh to loſe your indigence,</l>
                      <l>And have a potent, never failing friend,</l>
                      <l>Liſten to him.</l>
                   </sp>
@@ -2062,7 +2062,7 @@ My dreams have not deceived me!</l>
                      <l>Unhold me! let me paſs!</l>
                   </sp>
                   <sp>
-                     <pb n="42" facs="tcp:033216_0042_0FF6760CD0DCB620"/>
+                     <pb n="42" facs="unknown:033216_0042_0FF6760CD0DCB620"/>
                      <speaker>Lys.</speaker>
                      <l>By heaven thou ſhalt not go.</l>
                      <l>Offer to ſtir, and this ſhall drink thy blood!</l>
@@ -2117,7 +2117,7 @@ My dreams have not deceived me!</l>
                      <l>With pompous repetition of thy greatneſs;</l>
                      <l>Sound thy own praiſe, until the atmoſphere</l>
                      <l>
-                        <pb n="43" facs="tcp:033216_0043_0FF6760EDB86AD38"/>Takes the contagion, and re-echoes it</l>
+                        <pb n="43" facs="unknown:033216_0043_0FF6760EDB86AD38"/>Takes the contagion, and re-echoes it</l>
                      <l>Through the whole world.</l>
                   </sp>
                   <sp>
@@ -2164,7 +2164,7 @@ My dreams have not deceived me!</l>
                      <l>May hell's conflagrant tempeſt light upon thee,</l>
                      <l>And all thy thoughts, in dreadful chaos hurl'd,</l>
                      <l>
-                        <pb n="44" facs="tcp:033216_0044_0FF676112DCD24B8"/>For ever keep thee, howling in deſpair!</l>
+                        <pb n="44" facs="unknown:033216_0044_0FF676112DCD24B8"/>For ever keep thee, howling in deſpair!</l>
                      <l>And Oh, ye infernal powers! now hear a wretch,</l>
                      <l>Grown wild with torment, hear my invocation!</l>
                      <l>Oh, let confuſion, wretchedneſs ſevere,</l>
@@ -2213,7 +2213,7 @@ My dreams have not deceived me!</l>
                      <l>Wrong'd by my huſband too! your kindneſs melts me!</l>
                      <l>Oh, Albert!</l>
                      <l>
-                        <pb n="45" facs="tcp:033216_0045_0FF6761324921B38"/>This goodneſs is ſevere, and quite ſubdues</l>
+                        <pb n="45" facs="unknown:033216_0045_0FF6761324921B38"/>This goodneſs is ſevere, and quite ſubdues</l>
                      <l>My pow'r of utterance—It kills Orlando,</l>
                      <l>When in the man whom he has thus offended,</l>
                      <l>He contemplates the ſaviour of Cecilia!</l>
@@ -2267,7 +2267,7 @@ My dreams have not deceived me!</l>
                      <speaker>Cec.</speaker>
                      <l>Well may we now indulge our utmoſt ſorrow,</l>
                      <l>
-                        <pb n="46" facs="tcp:033216_0046_0FF67614B7144010"/>And give a vent to tears of double grief.</l>
+                        <pb n="46" facs="unknown:033216_0046_0FF67614B7144010"/>And give a vent to tears of double grief.</l>
                   </sp>
                   <sp>
                      <speaker>Orl.</speaker>
@@ -2325,7 +2325,7 @@ My dreams have not deceived me!</l>
                      <l>Reſtrain it! no, oh, rather let it burſt,</l>
                      <l>Let it blaze fire, 'till I, poor wretch, conſume</l>
                      <l>
-                        <pb n="47" facs="tcp:033216_0047_0FF67616A991B940"/>In its curſt flame! and be forever damn'd!</l>
+                        <pb n="47" facs="unknown:033216_0047_0FF67616A991B940"/>In its curſt flame! and be forever damn'd!</l>
                   </sp>
                   <sp>
                      <speaker>Cec.</speaker>
@@ -2384,7 +2384,7 @@ My dreams have not deceived me!</l>
                      <l>Nor leave him, 'till he yields to tender pity.</l>
                   </sp>
                   <sp>
-                     <pb n="48" facs="tcp:033216_0048_0FF676190259C6B0"/>
+                     <pb n="48" facs="unknown:033216_0048_0FF676190259C6B0"/>
                      <speaker>Orl.</speaker>
                      <l>Think'ſt thou, Cecilia, that again, my Albert</l>
                      <l>Will caſt a lenient eye upon my grief?</l>
@@ -2424,7 +2424,7 @@ My dreams have not deceived me!</l>
                      <l>Alas! it is too much, I cannot bear it.</l>
                   </sp>
                   <stage>
-                     <pb n="49" facs="tcp:033216_0049_0FF6761AF1F1B4A0"/>
+                     <pb n="49" facs="unknown:033216_0049_0FF6761AF1F1B4A0"/>
                      <hi>Enter</hi> MESSENGER.</stage>
                   <sp>
                      <speaker>Meſſ.</speaker>
@@ -2477,7 +2477,7 @@ O, cruel fate! muſt then brave Albert fall?</l>
                         </gap>
                      </l>
                      <l>
-                        <pb n="50" facs="tcp:033216_0050_0FF6761C87B43E88"/>Death makes us nothing, chief is miſery!</l>
+                        <pb n="50" facs="unknown:033216_0050_0FF6761C87B43E88"/>Death makes us nothing, chief is miſery!</l>
                      <l>Day after day, allots us out a portion.</l>
                      <l>Which, howe'er bitter, we're compell'd to take.</l>
                      <l>Sometimes a little good preſents itſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2529,7 +2529,7 @@ O, cruel fate! muſt then brave Albert fall?</l>
                      <speaker>Alb.</speaker>
                      <l>Who calls me friend? Alas, I have no friend!</l>
                      <l>
-                        <pb n="51" facs="tcp:033216_0051_0FF6761E76BB8D08"/>Oh, I'm forgetful; yes, the world abounds</l>
+                        <pb n="51" facs="unknown:033216_0051_0FF6761E76BB8D08"/>Oh, I'm forgetful; yes, the world abounds</l>
                      <l>With men, and they are nought but enemies</l>
                      <l>But friend and enemy imply the fame;</l>
                      <l>If thou<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2588,7 +2588,7 @@ O, cruel fate! muſt then brave Albert fall?</l>
                            <desc>•</desc>
                         </gap>ame Semerville?</l>
                      <l>
-                        <pb n="52" facs="tcp:033216_0052_0FF67620D27F90B0"/>Thou faithful man, forgive my conduct towards you</l>
+                        <pb n="52" facs="unknown:033216_0052_0FF67620D27F90B0"/>Thou faithful man, forgive my conduct towards you</l>
                      <l>I thought thou wert that cruel, hoary wretch,</l>
                      <l>That monſter, who would call himſelf a parent,</l>
                      <l>And that thy name was Danfred!</l>
@@ -2648,7 +2648,7 @@ What numerous horrors low'r around this place.</l>
                      <l>And thy fair ſame be blaſted? but be ſtill,</l>
                      <l>Huſh, huſh, my trembling heart! where is my friend!</l>
                      <l>
-                        <pb n="53" facs="tcp:033216_0053_0FF67622E76F2760"/>What loathſome corner of this habitation</l>
+                        <pb n="53" facs="unknown:033216_0053_0FF67622E76F2760"/>What loathſome corner of this habitation</l>
                      <l>Art thou ſecur'd, thou beſt, thou deareſt man</l>
                      <l>That ever grac'd a ſword, or cheriſh'd honour.</l>
                      <l>O Albert!</l>
@@ -2709,7 +2709,7 @@ What numerous horrors low'r around this place.</l>
                      <speaker>Orl.</speaker>
                      <l>No matter man; then diſobey for once,</l>
                      <l>
-                        <pb n="54" facs="tcp:033216_0054_0FF6762478E8D900"/>And ſtop the raging fever of this brain,</l>
+                        <pb n="54" facs="unknown:033216_0054_0FF6762478E8D900"/>And ſtop the raging fever of this brain,</l>
                      <l>Which elſe will work to madneſs! and deſtroy me.</l>
                   </sp>
                   <sp>
@@ -2767,7 +2767,7 @@ Orlando's lenghty abſence quite alarms me.</l>
                      <l>What wonderous circumſtance, can thus detain him.</l>
                   </sp>
                   <stage>
-                     <pb n="55" facs="tcp:033216_0055_0FF676266CD2F9C0"/>
+                     <pb n="55" facs="unknown:033216_0055_0FF676266CD2F9C0"/>
                      <hi>Enter</hi> ORLANDO.</stage>
                   <sp>
                      <speaker>Orl.</speaker>
@@ -2815,7 +2815,7 @@ Orlando's lenghty abſence quite alarms me.</l>
                      <l>Nor the worſt pangs that torture can inflict,</l>
                      <l>Can move me, while I hold ſo vaſt a bleſſing</l>
                      <l>
-                        <pb n="56" facs="tcp:033216_0056_0FF67628CE9A1538"/>As my Orlando. Oh, then do but ſmile,</l>
+                        <pb n="56" facs="unknown:033216_0056_0FF67628CE9A1538"/>As my Orlando. Oh, then do but ſmile,</l>
                      <l>And I will dare the frowns of ſorrow's brow,</l>
                      <l>Nor murmur at her moſt ſevere inflictions.</l>
                   </sp>
@@ -2878,7 +2878,7 @@ Orlando's lenghty abſence quite alarms me.</l>
                      </l>
                      <l>If you deſert me, it ſhall end my being.</l>
                      <l>
-                        <pb n="57" facs="tcp:033216_0057_0FF6762AC9178B90"/>Think, what would be my caſe, a helpleſs female,</l>
+                        <pb n="57" facs="unknown:033216_0057_0FF6762AC9178B90"/>Think, what would be my caſe, a helpleſs female,</l>
                      <l>Without a huſband, father, or a brother,</l>
                      <l>Pining in want, and no where to petition.</l>
                      <l>Would it not break your heart, to ſee me thus?</l>
@@ -2935,7 +2935,7 @@ Did ever ſuch a wretch oppreſs the world,</l>
                      <l>Swallow me quickly; let the world be rid</l>
                      <l>Of ſuch a nuiſance, ſuch a worthleſs monſter!</l>
                      <l>
-                        <pb n="58" facs="tcp:033216_0058_0FF6762C585C0DB0"/>Thou golden orb of day, withdraw thine eye,</l>
+                        <pb n="58" facs="unknown:033216_0058_0FF6762C585C0DB0"/>Thou golden orb of day, withdraw thine eye,</l>
                      <l>Leſt by my influence all thy light ſhould fail,</l>
                      <l>And fade in darkneſs, never to cheer more.</l>
                      <l>Here muſt I finiſh life; my ſoul is faint.
@@ -2991,7 +2991,7 @@ Did ever ſuch a wretch oppreſs the world,</l>
                      <speaker>Sem.</speaker>
                      <l>Thou do'ſt miſtake, Orlando. He doth ſuffer.</l>
                      <l>
-                        <pb n="59" facs="tcp:033216_0059_0FF68E5D2AF377D8"/>Torn, with the ſharpeſt impulſe of remorſe,</l>
+                        <pb n="59" facs="unknown:033216_0059_0FF68E5D2AF377D8"/>Torn, with the ſharpeſt impulſe of remorſe,</l>
                      <l>And raging, in the wildeſt agony</l>
                      <l>Of tumult and deſpair! He loaths his food,</l>
                      <l>Nor can he clo<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3047,7 +3047,7 @@ Did ever ſuch a wretch oppreſs the world,</l>
                      </l>
                   </sp>
                   <stage>
-                     <pb n="60" facs="tcp:033216_0060_0FF68E5F977AE510"/>
+                     <pb n="60" facs="unknown:033216_0060_0FF68E5F977AE510"/>
                      <hi>Enter</hi> CECILIA.</stage>
                   <stage>(frantic, leading her child, and holding a dagger.)</stage>
                   <sp>
@@ -3097,7 +3097,7 @@ Howl on, ye winds, and in extravagance</l>
                      </l>
                   </sp>
                   <sp>
-                     <pb n="61" facs="tcp:033216_0061_0FF68E61D1E9F000"/>
+                     <pb n="61" facs="unknown:033216_0061_0FF68E61D1E9F000"/>
                      <speaker>Sem.</speaker>
                      <l>Diſtracted woman! give me up that victim,</l>
                      <l>
@@ -3165,7 +3165,7 @@ Howl on, ye winds, and in extravagance</l>
       </body>
       <back>
          <div type="epilogue">
-            <pb n="62" facs="tcp:033216_0062_0FF68E6419F41E88"/>
+            <pb n="62" facs="unknown:033216_0062_0FF68E6419F41E88"/>
             <head>EPILOGUE.</head>
             <byline>WRITTEN BY J. B. WILLIAMSON, DIRECTOR OF THE BOSTON THEATRE.</byline>
             <byline>SPOKEN BY MRS. WILLIAMSON.</byline>
@@ -3223,7 +3223,7 @@ Howl on, ye winds, and in extravagance</l>
             <l>Nothings—mere nothings, to my plan of action;</l>
             <l>I've a <hi>proceſſion!</hi> Ah, there's th' attraction.</l>
             <l>
-               <pb n="63" facs="tcp:033216_0063_0FF68E6631B74F68"/>Thy HILLS, O, Maſſachuſetts! ſhall rejoice;</l>
+               <pb n="63" facs="unknown:033216_0063_0FF68E6631B74F68"/>Thy HILLS, O, Maſſachuſetts! ſhall rejoice;</l>
             <l>Thy vallies echo back th' exulting voice;</l>
             <l>Each <hi>rocky height,</hi> put on its ſprightlieſt mood,</l>
             <l>From grave old <hi>Dorcheſter</hi> to grim <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3286,7 +3286,7 @@ Howl on, ye winds, and in extravagance</l>
             <l>Superior to low arts, and ſhunning ſtrife,</l>
             <l>Form'd to enliven, not to burthern life;</l>
             <l>
-               <pb n="64" facs="tcp:033216_0064_0FF68E684A6E8458"/>The Drama, ſtill, in affluence and eaſe,</l>
+               <pb n="64" facs="unknown:033216_0064_0FF68E684A6E8458"/>The Drama, ſtill, in affluence and eaſe,</l>
             <l>Should bend her brilliant powers t'inſtruck, to pleaſe;</l>
             <l>Then public ſpirit, thro' that medium view'd,</l>
             <l>Might own <hi>the Theatre,</hi> a public good.</l>
